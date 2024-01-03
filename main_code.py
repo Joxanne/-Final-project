@@ -88,4 +88,4 @@ async def on_message(message):
 
     print(f"The getting score is",score['compound'])
 
-client.run("MTE1MzkyNTc5MjgyMTE1Mzg2Mg.GQmixW.Ludzh-xTa5gWYnNkeRT__z8zy49CJK__FbZBD0")
+client.run("MTE1MzkyNTc5MjgyMTE1Mzg2Mg.GDcc5H.5ZgmVILQvjSCPJ74O_OCtooe7qq5-77KUgRGhE")
